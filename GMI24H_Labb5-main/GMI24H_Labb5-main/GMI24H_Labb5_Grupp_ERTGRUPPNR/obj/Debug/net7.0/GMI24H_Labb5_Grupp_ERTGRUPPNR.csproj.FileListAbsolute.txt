@@ -1,0 +1,14 @@
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\bin\Debug\net7.0\GMI24H_Labb5_Grupp_ERTGRUPPNR.exe
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\bin\Debug\net7.0\GMI24H_Labb5_Grupp_ERTGRUPPNR.deps.json
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\bin\Debug\net7.0\GMI24H_Labb5_Grupp_ERTGRUPPNR.runtimeconfig.json
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\bin\Debug\net7.0\GMI24H_Labb5_Grupp_ERTGRUPPNR.dll
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\bin\Debug\net7.0\GMI24H_Labb5_Grupp_ERTGRUPPNR.pdb
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\obj\Debug\net7.0\GMI24H_Labb5_Grupp_ERTGRUPPNR.GeneratedMSBuildEditorConfig.editorconfig
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\obj\Debug\net7.0\GMI24H_Labb5_Grupp_ERTGRUPPNR.AssemblyInfoInputs.cache
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\obj\Debug\net7.0\GMI24H_Labb5_Grupp_ERTGRUPPNR.AssemblyInfo.cs
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\obj\Debug\net7.0\GMI24H_Labb5_Grupp_ERTGRUPPNR.csproj.CoreCompileInputs.cache
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\obj\Debug\net7.0\GMI24H_Labb5_Grupp_ERTGRUPPNR.dll
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\obj\Debug\net7.0\refint\GMI24H_Labb5_Grupp_ERTGRUPPNR.dll
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\obj\Debug\net7.0\GMI24H_Labb5_Grupp_ERTGRUPPNR.pdb
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\obj\Debug\net7.0\GMI24H_Labb5_Grupp_ERTGRUPPNR.genruntimeconfig.cache
+E:\skolprojekt\år_2\Algoritmer och mjukvarudesign\GMI24H_Labb5-main\GMI24H_Labb5-main\GMI24H_Labb5_Grupp_ERTGRUPPNR\obj\Debug\net7.0\ref\GMI24H_Labb5_Grupp_ERTGRUPPNR.dll
